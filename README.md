@@ -1,1 +1,1 @@
-I am a student of ALX
+Task 0. Where am I?
